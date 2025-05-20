@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "/lehuutuan_frontendmentor_browser_extension_manager_ui/",
+  base: "/lht_fementor_bemui/",
 });

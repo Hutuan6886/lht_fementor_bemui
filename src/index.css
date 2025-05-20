@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@font-face {
+    font-family: "MyFont";
+    src: url("../public//assets//fonts/NotoSans-Italic-VariableFont_wdth\,wght.ttf");
+    font-weight: normal;
+    font-style: normal;
+}
